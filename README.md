@@ -10,6 +10,7 @@ Civil Engineering in Computer Science and Engineering. Working on modern technol
 - Distributed Applications
 - Docker
 - AWS / GCloud
+- Computer Vision
 
 ## Tools & Technologies
 
