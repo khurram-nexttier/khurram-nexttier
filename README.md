@@ -1,6 +1,6 @@
 # Khurram Malik
 
-Working on modern technologies to construct scalable applications. I love to code, learn new programming languages and I'm constantly seeking for new problems to tackle. I've mainly keeping myself occupied lately with GCloud (AppEngine, Cloud SQL, etc.), KTOR, JetBrains Exposed, & Flutter/Dart.
+Working on modern technologies to construct scalable applications. I love to code, learn new programming languages and I'm constantly seeking for new problems to tackle. I've mainly keeping myself occupied lately with GCloud (AppEngine, Cloud SQL, etc.), KTOR, JetBrains Exposed, Flutter/Dart, SwiftUI & Jetpack Compose.
 
 ## Skills
 
